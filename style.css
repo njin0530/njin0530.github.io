@@ -1,0 +1,109 @@
+*{
+	border-radius: 10px;
+}
+
+body{
+	font-family: "roboto","arial", "sans-serif";
+	background-image: url("gallery/arches.png");
+	background-color: lightcyan;
+	color: black;
+}
+
+header{
+	font-family: 'Playball', cursive;
+	background-color: rgba(255, 255, 255,0.5);
+	background-image: url("gallery/wallpaper.gif");
+	background-size: 600px;
+	color: lightcyan;
+	text-align: center;
+	padding: 10px;
+	margin: 10px 20px;
+}
+
+header img{
+	border-radius: 200px;
+}
+
+section{
+	text-align: center;
+	background-color: rgba(223, 249, 251,0.7);
+	border-radius: 12px;
+	padding: 20px;
+	margin: 20px;
+}
+
+h1{
+	color: white;
+	font-size: 20px;
+}
+
+h3{
+	font-size: 35px;
+	color: #0a3d62;
+	text-decoration: underline;
+}
+
+p{
+	font-size: 18px;
+	color: #535c68;
+}
+
+img{
+	border-radius: 5px;
+	height: 200px;
+}
+
+ul{
+	display: inline-block;
+	text-align: left;
+}
+
+table{
+	display: inline-block;
+}
+
+
+/*class*/
+.highlight{
+	color: #e74c3c;
+}
+.outline{
+	color:#130f40;
+}
+
+.social-icon{
+	width: 45px;
+	height: 45px;
+}
+
+
+/* span class*/
+.red{
+	color: red;
+}
+
+.orange{
+	color: orange;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.green{
+	color: green;
+}
+
+.blue{
+	color: blue;
+}
+
+.gray{
+	color: gray;
+}
+
+
+/* id */
+#hello{
+	font-size: 80px;
+}
